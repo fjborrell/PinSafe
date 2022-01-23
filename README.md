@@ -1,8 +1,7 @@
 # UberSafe
 McHacks9 Hackathon - Javascript/React Native Mobile App Project
+
 https://devpost.com/software/ubersafe
-
-
 
 
 
