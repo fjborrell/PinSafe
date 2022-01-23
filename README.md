@@ -1,5 +1,5 @@
 # UberSafe
-McHacks9 Hackathon - Javascript/React Native Mobile App Project
+McHacks9 Hackathon - Javascript/React Native Mobile App Project (Home Screen UI Implementation)
 
 https://devpost.com/software/ubersafe
 
