@@ -1,4 +1,4 @@
-# UberSafe
+# PinSafe
 McHacks9 Hackathon - Javascript/React Native Mobile App Project (Home Screen UI Implementation)
 
 
@@ -24,10 +24,5 @@ We designed the idea of an app meant to protect people and make people feel safe
 ## What we learned
 We learned the foundations of mobile development, app simulation, and all about frameworks! Specifically, Javascript, React Native, iOS Simulation, Expo.io. We also learned some Redux and TailwindCSS basics (which both did not end up being implemented in our final product).
 
-## What's next for UberSafe
+## What's next for PinSafe
 To implement a functional map API (e.g. google maps) and develop the ability to crowd-source safety information!
-
-
-
-# Note
-*The inspiration of the project name stems from the defintion of the word "Uber: Denoting an outstanding or supreme example of a particular kind of person or thing". The idea of the app is that it keeps you "uber" safe. This project is not in any way affiliated with Uber Inc. and was created solely to participate in the McHacks9 Hackathon*
