@@ -12,7 +12,7 @@ const Home = () => {
             resizeMode: "contain",
         }}
         source = {
-            require("../../assets/ubersafe.png")
+            require("../../assets/pinsafe.png")
         }
       />
 
